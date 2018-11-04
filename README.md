@@ -1,14 +1,12 @@
 # mazegame<br>
 
-Goal: Collect all bages by controlling the dog using the remote available on the on-screen controller
-10- Setup:
-11- How you play:
+Goal: Collect all bages by controlling the dog 
+Setup:
+How you play: Use the remote available on the on-screen controller to the right of the gaming screen
 
 Deliverables<br><br>
 
-
-2- Setup:<br><br>
-3- How you play:<br><br>
+1- How you play:<br><br>
 Utilizes HTML5, JS, Lime.JS and CSS technologies<br><br>
 4- Dog is able to naviage throughout the maze with on-screen remote control<br><br>
 5- Playable on computer, tablet and mobile devices<br><br>
