@@ -1,8 +1,10 @@
 # mazegame<br>
 
+Goal: Collect all bages by controlling the dog using the remote available on the on-screen controller
+
 Deliverables<br><br>
 
-1- Goal:
+
 2- Setup:
 3- How you play:
 Utilizes HTML5, JS, Lime.JS and CSS technologies<br>
