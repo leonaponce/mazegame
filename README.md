@@ -13,3 +13,4 @@ Deliverables<br><br>
 5- Dog must collect dog toys and dog treats throughout the maze <br><br>
 6- Alert must pop up in the event that the dog collects all items telling the user they have won the game<br><br>
 7- Prompt explains rules of the game and asks user for email information to enter timing stats
+8- Running timer at bottom of gaming screen 
