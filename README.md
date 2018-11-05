@@ -1,8 +1,8 @@
 # mazegame<br>
 
-Goal: Collect all bages by controlling the dog as quickly as possible
-Setup: Gaming screen is in middle of user screen and remote is to the right of that screen. Items to collect are arranged to maximize difficulty of navigation through the maze for the user. Game is timed to compare user games
-How you play: Use the remote available on the on-screen controller to the right of the gaming screen
+Goal: Collect all bages by controlling the dog as quickly as possible<br>
+Setup: Gaming screen is in middle of user screen and remote is to the right of that screen. Items to collect are arranged to maximize difficulty of navigation through the maze for the user. Game is timed to compare user games<br>
+How you play: Use the remote available on the on-screen controller to the right of the gaming screen<br>
 
 Deliverables<br><br>
 
