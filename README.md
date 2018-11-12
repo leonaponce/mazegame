@@ -6,7 +6,7 @@ How you play: Use the remote available on the on-screen controller to the right 
 
 Deliverables<br><br>
 
-1- Utilize HTML5, JS, Lime.JS and CSS technologies<br><br>
+1- Utilize HTML5, JS, Create.JS and CSS technologies<br><br>
 2- Dog icon is able to naviage throughout the maze with on-screen remote control<br><br>
 3- Playable on computer, tablet and mobile devices<br><br>
 4- Dog image must stay in bounds of the maze at all times<br><br>
