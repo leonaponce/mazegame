@@ -1,3 +1,22 @@
+// Logic for Dog Maze Game
+
+class Game {
+   constructor() {
+     console.log("Welcome to the Dog Maze Game");
+
+     //Referencing the canvas element
+     this.canvas = document.getElementById("game-canvas");
+     this.stage = new createjs.Stage(this.canvas);
+
+     createjs.Ticker.setFPS(60);
+
+     //This continually re-draws the stage
+     createjs.Ticker.on("tick", this.stage);
+   }
+}
+
+
+//Start game
 var canvas = document.getElementById ("canvas");
 var context = canvas.getContext("2d");
 
@@ -35,15 +54,3 @@ function update() {
 
     requestAnimationFrame(update);
 }
-
-
-/*
-    context.fillRect( 10, 10, 380, 40, '#000000');
-    context.fillRect( 10, 350, 380, 40, '#000000');
-    context.fillRect( 350, 10, 40, 380, '#000000');
-    context.fillRect( 180, 10, 40, 180, '#000000');
-
-
-    context.clearRect (0, 0, 400, 400);
-    context.drawImage(imgDog, 65, 65, 100, 77);
-*/
