@@ -14,3 +14,5 @@ Deliverables<br><br>
 6- Alert must pop up in the event that the dog collects all items telling the user they have won the game<br><br>
 7- Prompt explains rules of the game and asks user for email information to enter timing stats
 8- Running timer at bottom of gaming screen 
+
+11/14/18 - Taking break from coding this game to further delve into JS and complete Pong tutorial
